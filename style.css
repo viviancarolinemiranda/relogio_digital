@@ -16,4 +16,7 @@ body {
 }
 
 #time {
+  display: flex;
+  gap: 40px;
+  color: #fff;
 }
